@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on (dont know how this works)
 - 📫 How to reach me email
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i chase the satisfaction of a code working at the end of each project
+- ⚡ Fun fact:
 
 <!---
 bitcado/bitcado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
